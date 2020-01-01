@@ -1,5 +1,3 @@
-Paragraph
-
 # Header 1
 
 ## Header 2
@@ -8,33 +6,42 @@ Paragraph
 
 #### Header 4?
 
+Paragraph!
+
 **Bold!**
 
 *Italic!*
 
-> Blockquote?
+> Blockquote!
+> 
+> Wow!
 
-Ordered list
+### Ordered list
 
 1. One
 2. Three
 3. Four
 
-Unordered list
+\1. No ordered list.
+
+### Unordered list
 
 - A
 - B
 - C
 
-`Code...`
+\- No unordered list. 
+
+### Code shenanigans
+
 
 Line break
 
 ---
 
-[text](https://www.markdownguide.org/cheat-sheet/)
+[Test link](https://www.markdownguide.org/cheat-sheet/)
 
-![me](me.png)
+![Test image](me.png)
 
 | Syntax    | Description |
 | --------- | ----------- |
@@ -57,16 +64,16 @@ Line break
 
 
 ```
+private int myInt = 2;
+
 {
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
 }
-
-Generic code block, right?
 ```
 
-Here's a sentence with a footnote.[^1] Does the footnote syntax require text after the brackets thingy? :rage1:
+Emoji: \:rage1\: :rage1:
 
 ### My Great Heading
 
@@ -79,6 +86,4 @@ term
 - [ ] Update the website
 - [ ] Contact the media
 
-This is [a link](#header-1)
-
-[^1]: This is the correct footnote.
+This is a relative link to the [header 1](#header-1).
