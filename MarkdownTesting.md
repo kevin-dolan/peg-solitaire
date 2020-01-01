@@ -6,19 +6,33 @@ Paragraph
 **Bold!**
 *Italic!*
 > Blockquote?
+
+Ordered list
 1. One
 2. Three
 3. Four
+
+Unordered list
 - A
 - B
 - C
+
 `Code...`
+
 ---
+
 [text](https://www.markdownguide.org/cheat-sheet/)
+
 ![me](me.png)
 
+Dash line
 | Syntax | Description |
 | ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+No dash line
+| Syntax | Description |
 | Header | Title |
 | Paragraph | Text |
 

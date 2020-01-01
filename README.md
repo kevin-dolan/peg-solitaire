@@ -10,4 +10,4 @@ Header 3?
 #### Holy cow!
 Header 4, probably.
 
-Check out [MarkdownText.md](MarkdownText.md) to see how I butcher markdown!
+Check out [MarkdownText.md](https://github.com/kevin-dolan/peg-solitaire/blob/master/MarkdownTesting.md "Fixed maybe") to see how I butcher markdown!
