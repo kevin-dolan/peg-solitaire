@@ -66,7 +66,7 @@ Line break
 Generic code block, right?
 ```
 
-Here's a sentence with a footnote. [^1]
+Here's a sentence with a footnote.[^1] Does the footnote syntax require text after the brackets thingy?
 
 ### My Great Heading {#custom-id}
 
@@ -78,5 +78,7 @@ term
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+
+This is [a link](#header-1)
 
 [^1]: This is the correct footnote.
