@@ -66,9 +66,9 @@ Line break
 Generic code block, right?
 ```
 
-Here's a sentence with a footnote.[^1] Does the footnote syntax require text after the brackets thingy?
+Here's a sentence with a footnote.[^1] Does the footnote syntax require text after the brackets thingy? :rage1:
 
-### My Great Heading {#custom-id}
+### My Great Heading
 
 term
 : definition
