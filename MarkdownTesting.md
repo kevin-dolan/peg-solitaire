@@ -63,7 +63,7 @@ Paragraph!
 | Header    |             | Yes   |
 | Header    | Text        | Maybe |
 
-#### CHeckboxes
+#### Checkboxes
 
 - [x] Completed checkbox
 - [ ] Uncompleted Checkbox
