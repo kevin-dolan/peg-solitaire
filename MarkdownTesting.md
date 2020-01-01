@@ -41,15 +41,19 @@ Line break
 | Header    | Title       |
 | Paragraph | Text        |
 
-| Syntax | Description |
-| Header | Title |
-| Paragraph | Text |
-
 | Syntax    | Description | No    |
 | --------- | ----------- | ----- |
 | Header    | Title       | Yes   |
 | Paragraph | Text        | Maybe |
+| Header    | Title       | Yes   |
+| Header    | Text        | Maybe |
 
+| Syntax    | Description | No    |
+| --------- | ----------- | ----- |
+| Header    | Title       | Yes   |
+| Paragraph | Text        |       |
+| Header    |             | Yes   |
+| Header    | Text        | Maybe |
 
 
 ```
@@ -64,8 +68,6 @@ Generic code block, right?
 
 Here's a sentence with a footnote. [^1]
 
-[^1]: This is the footnote.
-
 ### My Great Heading {#custom-id}
 
 term
@@ -76,3 +78,5 @@ term
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+
+[^1]: This is the correct footnote.
