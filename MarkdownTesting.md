@@ -73,7 +73,7 @@ private int myInt = 2;
 }
 ```
 
-Emoji: \:rage1\: :rage1:
+Emoji: :\rage1: :rage1:
 
 ### My Great Heading
 
