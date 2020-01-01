@@ -4,7 +4,9 @@
 
 ### Header 3
 
-#### Header 4?
+#### Header 4
+
+### General Stuff
 
 Paragraph!
 
@@ -16,7 +18,9 @@ Paragraph!
 > 
 > Wow!
 
-### Ordered list
+~~Strikethrough!~~
+
+#### Ordered list
 
 1. One
 2. Three
@@ -24,7 +28,7 @@ Paragraph!
 
 \1. No ordered list.
 
-### Unordered list
+#### Unordered list
 
 - A
 - B
@@ -32,16 +36,13 @@ Paragraph!
 
 \- No unordered list. 
 
-### Code shenanigans
-
-
-Line break
-
----
+### Cooler formatting stuff
 
 [Test link](https://www.markdownguide.org/cheat-sheet/)
 
 ![Test image](me.png)
+
+#### Tables
 
 | Syntax    | Description |
 | --------- | ----------- |
@@ -62,6 +63,12 @@ Line break
 | Header    |             | Yes   |
 | Header    | Text        | Maybe |
 
+#### CHeckboxes
+
+- [x] Completed checkbox
+- [ ] Uncompleted Checkbox
+
+### Code shenanigans
 
 ```
 private int myInt = 2;
@@ -73,17 +80,12 @@ private int myInt = 2;
 }
 ```
 
-Emoji: :\rage1: :rage1:
+### Misc stuff
 
-### My Great Heading
+Emoji :\rage1: :rage1:
 
-term
-: definition
+Line break
 
-~~The world is flat.~~
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+---
 
 This is a relative link to the [header 1](#header-1).
