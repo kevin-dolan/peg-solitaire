@@ -1,0 +1,14 @@
+Z:\IGMProfile\Desktop\program shit\HW5KDolan\HW5KDolan\bin\Debug\HW5KDolan.exe.config
+Z:\IGMProfile\Desktop\program shit\HW5KDolan\HW5KDolan\bin\Debug\HW5KDolan.exe
+Z:\IGMProfile\Desktop\program shit\HW5KDolan\HW5KDolan\bin\Debug\HW5KDolan.pdb
+Z:\IGMProfile\Desktop\program shit\HW5KDolan\HW5KDolan\obj\Debug\HW5KDolan.csprojResolveAssemblyReference.cache
+Z:\IGMProfile\Desktop\program shit\HW5KDolan\HW5KDolan\obj\Debug\HW5KDolan.Form1.resources
+Z:\IGMProfile\Desktop\program shit\HW5KDolan\HW5KDolan\obj\Debug\HW5KDolan.Properties.Resources.resources
+Z:\IGMProfile\Desktop\program shit\HW5KDolan\HW5KDolan\obj\Debug\HW5KDolan.csproj.GenerateResource.Cache
+Z:\IGMProfile\Desktop\program shit\HW5KDolan\HW5KDolan\obj\Debug\HW5KDolan.csproj.CoreCompileInputs.cache
+Z:\IGMProfile\Desktop\program shit\HW5KDolan\HW5KDolan\obj\Debug\HW5KDolan.exe
+Z:\IGMProfile\Desktop\program shit\HW5KDolan\HW5KDolan\obj\Debug\HW5KDolan.pdb
+C:\Users\Scruble\Downloads\HW5KDolan\HW5KDolan\obj\Debug\HW5KDolan.exe
+C:\Users\Scruble\Downloads\HW5KDolan\HW5KDolan\obj\Debug\HW5KDolan.pdb
+C:\Users\Fish\Documents\Old Code\HW5KDolan\HW5KDolan\obj\Debug\HW5KDolan.exe
+C:\Users\Fish\Documents\Old Code\HW5KDolan\HW5KDolan\obj\Debug\HW5KDolan.pdb
